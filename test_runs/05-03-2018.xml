@@ -1,0 +1,8 @@
+<testresult>
+    <testfirstname>SUCCESS</testfirstname>
+    <testlastname>FAILUER - EXPECTED Ropski RECEIVED Robski</testlastname>
+    <testprimenumber>FAILUER - 1 is't the first number in the range from 1 to 99</testprimenumber>
+    <testspassed>1</testspassed>
+    <testsfailed>2</testsfailed>
+    <testserror>0</testserror>
+    </testresult>
